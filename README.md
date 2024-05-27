@@ -4,5 +4,5 @@
 
 ## About
 
-"Shopping Cart" project built with HTML5, CSS3, jQuery and JavaScript. You can view the project [**here**](https://khuship1215.github.io/KK_Store/). [**Here**]([http://www.theme-oxygen.com/envato/matestore/mix "Click me! 🛒"](https://khuship1215.github.io/KK_Store/)) is the template.
+"Shopping Cart" project built with HTML5, CSS3, jQuery and JavaScript. You can view the project [**here**](https://khuship1215.github.io/KK_Store/). [**Here**](https://khuship1215.github.io/KK_Store/)) is the template.
 
